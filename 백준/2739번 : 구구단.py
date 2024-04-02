@@ -1,3 +1,3 @@
 N = int(input())
-# for(i=1, i<=9, i++)
-print()
+for i in range(1,10):
+    print(N, '*', i, '=', N*i)
