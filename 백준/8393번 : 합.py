@@ -1,11 +1,8 @@
-# 내가 계속 풀었던 풀이 . . . . 안됨
 n = int(input())
-sum = 0
-for i in range(1,n+1):
-    sum += 1
-    print(sum)
+sum = 0 # 변수에 0을 지정
+for i in range(1,n+1): # 1부터 n까지
+    sum += i # sum = sum + i
+print(sum)
 
-    # 음
-
-
-#ㅓㅓ
+# sum함수를 이용한 코드
+# print(sum(range(1, int(input())+1)))
