@@ -1,0 +1,5 @@
+N = int(input())
+scores = list(map(int, input().split()))
+print(scores)
+M = max(scores)
+print(M)
