@@ -6,3 +6,4 @@ if A > B:
     print(A)
 else:
     print(B)
+
