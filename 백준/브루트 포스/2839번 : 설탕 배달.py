@@ -10,4 +10,3 @@ while N >= 0:
     cnt+=1
 else:
     print(-1)
-
